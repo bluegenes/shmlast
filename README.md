@@ -13,7 +13,7 @@ aligner and the pydata stack to achieve much better performance while staying in
 
 ## About
 
-Conditional Reciprocal Best Hits (CRBH) was originalyl described by [Aubry et al.
+Conditional Reciprocal Best Hits (CRBH) was originally described by [Aubry et al.
 2014](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1004365) and
 implemented in the [crb-blast](https://github.com/cboursnell/crb-blast) package. CRBH  builds 
 on the traditional Reciprocal Best Hits (RBH) method for orthology
